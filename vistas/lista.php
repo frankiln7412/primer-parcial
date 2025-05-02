@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Contactos</title>
-    <link rel="stylesheet" href="../ka/bonito.css">
+    <link rel="stylesheet" href="../bonito.css">
 </head>
 <body>
 <div class="contenedor">
